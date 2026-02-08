@@ -44,7 +44,7 @@ const Navbar = () => {
             }}
             className="text-xl md:text-2xl font-display font-bold gradient-text"
           >
-            {personalInfo.name.split(" ")[0]}
+            {personalInfo.name}
           </a>
 
           {/* Desktop Navigation */}

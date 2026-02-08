@@ -31,7 +31,7 @@ const Footer = () => {
               }}
               className="text-2xl font-display font-bold gradient-text"
             >
-              {personalInfo.name.split(" ")[0]}
+              {personalInfo.name}
             </a>
             <p className="text-muted-foreground mt-2 text-sm">
               MERN Stack Developer passionate about building exceptional web
