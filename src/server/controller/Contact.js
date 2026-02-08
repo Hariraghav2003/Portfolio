@@ -11,6 +11,6 @@ exports.contactMe = async (req, res) => {
     return res.json({ message: "Inquiry submitted successfully!" });
   } catch (error) {
     console.error("Error in contactMe endpoint:", error);
-    return res.status(500).json({ error: "Internal server error" });
+    return res.status(500).json({ error: "Internal server error",errorDetails: error.message});
   }
 };
