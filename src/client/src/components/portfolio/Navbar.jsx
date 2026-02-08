@@ -45,7 +45,6 @@ const Navbar = () => {
             className="text-xl md:text-2xl font-display font-bold gradient-text"
           >
             {personalInfo.name.split(" ")[0]}
-            <span className="text-foreground">.</span>
           </a>
 
           {/* Desktop Navigation */}

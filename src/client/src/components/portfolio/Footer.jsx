@@ -32,7 +32,6 @@ const Footer = () => {
               className="text-2xl font-display font-bold gradient-text"
             >
               {personalInfo.name.split(" ")[0]}
-              <span className="text-foreground">.</span>
             </a>
             <p className="text-muted-foreground mt-2 text-sm">
               MERN Stack Developer passionate about building exceptional web
