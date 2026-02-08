@@ -1,6 +1,3 @@
-// Portfolio Index Page
-// Combines all portfolio sections into a single page layout
-
 import Navbar from "@/components/portfolio/Navbar";
 import Hero from "@/components/portfolio/Hero";
 import About from "@/components/portfolio/About";
