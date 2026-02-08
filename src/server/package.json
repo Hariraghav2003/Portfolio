@@ -1,0 +1,23 @@
+{
+  "name": "stripeserver",
+  "version": "1.0.0",
+  "description": "\"Stripe Payment gateway test app\"",
+  "license": "ISC",
+  "author": "Hariraghav.S",
+  "type": "commonjs",
+  "main": "Server.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "nodemailer": "^8.0.1",
+    "path": "^0.12.7",
+    "stripe": "^20.1.0"
+  }
+}
