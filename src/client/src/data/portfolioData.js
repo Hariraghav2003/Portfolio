@@ -103,14 +103,12 @@ export const projects = [
       "Express.js",
       "RESTful APIs",
       "MongoDB",
-      "Microservices Architecture",
       "XML Parsing",
       "Payment Gateway Integration",
       "Email Services",
       "CI/CD Pipelines",
       "Docker",
       "NGINX",
-      "Linux",
     ],
 
     features: [
@@ -145,7 +143,7 @@ export const projects = [
       "Secure data handling with encryption",
     ],
     github: "https://github.com/Hariraghav2003/QR-Code-Generator.git",
-    live: "https://qr-code-generator-ochre-tau.vercel.app",
+    live: "https://qr-code-generator-hariraghav.vercel.app",
     category: "Full Stack",
   },
   {
@@ -171,7 +169,7 @@ export const projects = [
       "Multi-database support (MongoDB, SQL, DynamoDB)",
     ],
     github: "https://github.com/Hariraghav2003/MERN-CRUD-APP.git",
-    live: "https://mern-crud-app-theta.vercel.app",
+    live: "https://mern-crud-app-hariraghav.vercel.app",
     category: "Full Stack / DevOps",
   },
   {
@@ -189,7 +187,7 @@ export const projects = [
       "Message encryption",
     ],
     github: "https://github.com/hariraghav2003",
-    live: "https://chatapp-inky-theta.vercel.app",
+    live: "https://chatapp-hariraghav.vercel.app",
     category: "Upcoming",
   },
 ];
