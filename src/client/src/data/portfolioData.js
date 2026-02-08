@@ -190,7 +190,7 @@ export const projects = [
     ],
     github: "https://github.com/hariraghav2003",
     live: "https://chatapp-inky-theta.vercel.app",
-    category: "In Progress",
+    category: "Upcoming",
   },
 ];
 
