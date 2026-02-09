@@ -69,11 +69,11 @@ const Navbar = () => {
             href="#contact"
             onClick={(e) => {
               e.preventDefault();
-              scrollToSection("#contact");
+              scrollToSection("#reachout");
             }}
             className="hidden md:inline-flex px-5 py-2.5 bg-primary text-primary-foreground rounded-lg font-medium text-sm hover:opacity-90 transition-opacity"
           >
-            Contact
+            Get in Touch
           </a>
 
           {/* Mobile Menu Button */}
@@ -107,11 +107,11 @@ const Navbar = () => {
                 href="#contact"
                 onClick={(e) => {
                   e.preventDefault();
-                  scrollToSection("#contact");
+                  scrollToSection("#reachout");
                 }}
                 className="mx-6 mt-4 px-5 py-2.5 bg-primary text-primary-foreground rounded-lg font-medium text-center"
               >
-                Contact
+                Get in Touch
               </a>
             </div>
           </div>
