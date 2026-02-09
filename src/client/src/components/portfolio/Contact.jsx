@@ -93,8 +93,7 @@ const Contact = () => {
             Contact Me
           </h2>
           <p className="text-muted-foreground mt-4 max-w-2xl mx-auto">
-            I'm currently open to new opportunities. Whether you have a question
-            or just want to say hi, feel free to reach out!
+            Whether you have a question or just want to say hi, feel free to reach out!
           </p>
         </div>
 
