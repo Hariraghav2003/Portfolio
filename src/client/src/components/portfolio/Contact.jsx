@@ -154,7 +154,7 @@ const Contact = () => {
           </div>
 
           {/* Contact Form */}
-          <form onSubmit={handleSubmit} className="glass-card p-8">
+          <form onSubmit={handleSubmit} className="glass-card p-8" id="reachout">
             <div className="space-y-6">
               {/* Name Field */}
               <div>
