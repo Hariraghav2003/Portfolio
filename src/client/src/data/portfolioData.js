@@ -163,6 +163,7 @@ export const projects = [
       "DynamoDB",
       "Docker",
       "GitHub Actions",
+      "Jest"
     ],
     features: [
       "CRUD operations",
