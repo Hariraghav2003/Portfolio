@@ -73,7 +73,7 @@ const Navbar = () => {
             }}
             className="hidden md:inline-flex px-5 py-2.5 bg-primary text-primary-foreground rounded-lg font-medium text-sm hover:opacity-90 transition-opacity"
           >
-            Hire Me
+            Contact
           </a>
 
           {/* Mobile Menu Button */}
@@ -111,7 +111,7 @@ const Navbar = () => {
                 }}
                 className="mx-6 mt-4 px-5 py-2.5 bg-primary text-primary-foreground rounded-lg font-medium text-center"
               >
-                Hire Me
+                Contact
               </a>
             </div>
           </div>
